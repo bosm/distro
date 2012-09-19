@@ -5,5 +5,7 @@
 
 ############################################################
 PACKAGES :
-	bosdemo-native
-
+	limoi-core-native
+	limoi-plugins-native
+	limoi-components-native
+	limoa-native
